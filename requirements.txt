@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+crawl4ai
+playwright
+trafilatura
+jupyter
+pdf2image
+pandas
+nest_asyncio
